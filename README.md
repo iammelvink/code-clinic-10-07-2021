@@ -1,6 +1,6 @@
 # code-clinic-10-07-2021
 
-## Repository for my code-clinic-19-06-2021 project
+## Repository for my code-clinic-10-07-2021 project
 
 Author Smous tackle File Input Output in Java.
 
