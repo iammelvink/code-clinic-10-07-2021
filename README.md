@@ -2,7 +2,7 @@
 
 ## Repository for my code-clinic-10-07-2021 project
 
-Author Smous tackle File Input Output in Java.
+Author Smous tackles File Input Output in Java.
 
 1. Methodologies/Project Management:
    - SCRUM
